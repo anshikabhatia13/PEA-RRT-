@@ -8,7 +8,8 @@ This repository contains the implementation of the PEA_RRT* (Probabilistic Roadm
 - [Algorithm Overview](#algorithm-overview)
 - [Implementation Details](#implementation-details)
 - [Usage](#usage)
-- [Examples](#examples)
+
+
 
 
 ## Introduction
@@ -32,5 +33,7 @@ Advances in Mechanical Engineering, vol. 15, no. 4, 2023
 
 [Explain how to use or integrate the PEA_RRT* algorithm into your project. Include code snippets or usage instructions.]
 
-```bash
-# Example command or code snippet
+```run main_plan.m```
+Run main_plan.m and PEA-RRT* will come up with a perceptionally and energetically optimal path for the UAVs
+
+
