@@ -35,5 +35,5 @@ Advances in Mechanical Engineering, vol. 15, no. 4, 2023
 
 ```run main_plan.m```
 Run main_plan.m and PEA-RRT* will come up with a perceptionally and energetically optimal path for the UAVs
-
+Make sure to add UAVspec.m , Map.m and RRTStarClass.m from the R. Takemura code
 
